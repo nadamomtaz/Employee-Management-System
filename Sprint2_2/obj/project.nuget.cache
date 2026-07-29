@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmIygw5eqDU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadam\\OneDrive\\Desktop\\Sprint2_2\\Sprint2_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
